@@ -20,4 +20,4 @@ jobs:
           import platform
           print
           (platform.processor())
-          Shell: python
+          shell: python
